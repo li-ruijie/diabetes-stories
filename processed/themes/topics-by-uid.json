@@ -1,0 +1,8005 @@
+{
+  "uid": 1,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        5,
+        7
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        15,
+        16
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        3,
+        5
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        3,
+        18,
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 2,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        23
+      ]
+    }
+  ]
+}
+{
+  "uid": 3,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        2,
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        5,
+        7,
+        21
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        10,
+        12
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        21
+      ]
+    }
+  ]
+}
+{
+  "uid": 4,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        5,
+        11,
+        17
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        14,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        3,
+        13,
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        3,
+        15,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 5,
+  "group": [
+    "family member",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2,
+        19
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        7,
+        17
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6,
+        18,
+        19
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        21,
+        22,
+        25
+      ]
+    }
+  ]
+}
+{
+  "uid": 6,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 7,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        13,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        4,
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        7,
+        9,
+        18
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 8,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        28
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        33,
+        34
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        31
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        5,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        35
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        39
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        26,
+        39
+      ]
+    }
+  ]
+}
+{
+  "uid": 9,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        4,
+        7,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        34
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        25,
+        26,
+        27,
+        28,
+        32,
+        33
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        18,
+        19,
+        36
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        24
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        32
+      ]
+    }
+  ]
+}
+{
+  "uid": 10,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        8,
+        17,
+        24,
+        25
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        5,
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        26
+      ]
+    }
+  ]
+}
+{
+  "uid": 11,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        30
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        29
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        4,
+        13,
+        22,
+        29
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        8,
+        11
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        12,
+        16,
+        18
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        32
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        8,
+        11
+      ]
+    }
+  ]
+}
+{
+  "uid": 12,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        19,
+        20
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        20,
+        21,
+        22,
+        23,
+        30,
+        31
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        6,
+        27
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        30
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3,
+        10
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        7,
+        11
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        33
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        33
+      ]
+    }
+  ]
+}
+{
+  "uid": 13,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        9,
+        17,
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        7,
+        13,
+        21,
+        22,
+        28
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        10,
+        18,
+        23
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        19,
+        23
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 14,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        24
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        17,
+        25
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        24
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        20,
+        21
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        13,
+        21
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        3
+      ]
+    }
+  ]
+}
+{
+  "uid": 15,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        6,
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        7,
+        16
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        1,
+        3
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        5,
+        11
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        2,
+        5,
+        15
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        9,
+        19
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 16,
+  "group": [
+    "family member",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        14,
+        27
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        28
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        16,
+        25,
+        26
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        8,
+        9,
+        27
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        21,
+        27
+      ]
+    }
+  ]
+}
+{
+  "uid": 17,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        16,
+        17
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 18,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        8,
+        9
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        22,
+        23,
+        29,
+        30
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        20,
+        24
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        10,
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 19,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        8,
+        9
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        6,
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        5,
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 20,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        3,
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        6
+      ]
+    }
+  ]
+}
+{
+  "uid": 21,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        7,
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        7,
+        11
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        4
+      ]
+    }
+  ]
+}
+{
+  "uid": 22,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        3,
+        16,
+        23
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        13,
+        36
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        18,
+        19
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        5,
+        20,
+        34,
+        36
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 23,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 24,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        11,
+        28,
+        29
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        10
+      ]
+    }
+  ]
+}
+{
+  "uid": 25,
+  "group": [
+    "healthcare professional",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        6,
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        10,
+        26
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        10,
+        28
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        28
+      ]
+    }
+  ]
+}
+{
+  "uid": 26,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        21,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        27
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        7,
+        12
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        2,
+        7,
+        8,
+        28
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        31
+      ]
+    }
+  ]
+}
+{
+  "uid": 27,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        22,
+        23
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 28,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        3,
+        10
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        15,
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        16,
+        19
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        12
+      ]
+    }
+  ]
+}
+{
+  "uid": 29,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        11,
+        23,
+        24
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        4,
+        8,
+        14,
+        23,
+        24
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        4,
+        13,
+        23
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        7,
+        19,
+        23,
+        27
+      ]
+    }
+  ]
+}
+{
+  "uid": 30,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        1,
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        23,
+        24
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3,
+        4,
+        18
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        15,
+        16
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        6,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        18,
+        22,
+        23
+      ]
+    }
+  ]
+}
+{
+  "uid": 31,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        2,
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        9,
+        16
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        2
+      ]
+    }
+  ]
+}
+{
+  "uid": 32,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        10,
+        21
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        405,
+        6
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        5,
+        6,
+        1
+      ]
+    }
+  ]
+}
+{
+  "uid": 33,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        2,
+        5
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        7,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        1,
+        8,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        2,
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        6,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        17
+      ]
+    }
+  ]
+}
+{
+  "uid": 34,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3,
+        5
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6,
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        3,
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 35,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        5,
+        11,
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 36,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        7,
+        13,
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        3,
+        8,
+        10,
+        15
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        4,
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        16
+      ]
+    }
+  ]
+}
+{
+  "uid": 37,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 38,
+  "group": [
+    "healthcare professional",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        13,
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        2,
+        14
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 39,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        11,
+        12,
+        22
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        5,
+        20
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        2,
+        7,
+        18
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 17,
+      "topic": "Responses from society",
+      "subtopic": "Responses to car accidents resulting from diabetes.",
+      "paragraph": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        7,
+        14,
+        18
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        21
+      ]
+    }
+  ]
+}
+{
+  "uid": 40,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        10,
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        8,
+        17
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        17
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        5,
+        6
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 17,
+      "topic": "Responses from society",
+      "subtopic": "Responses to car accidents resulting from diabetes.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 41,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        13,
+        18,
+        22
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        6
+      ]
+    }
+  ]
+}
+{
+  "uid": 42,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        5,
+        23
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        25,
+        26
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        29
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        29
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        4,
+        17
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        30
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 14,
+      "topic": "Living together; living alone",
+      "subtopic": "Living alone.",
+      "paragraph": [
+        30
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 17,
+      "topic": "Responses from society",
+      "subtopic": "Responses to car accidents resulting from diabetes.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        31
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        10,
+        11
+      ]
+    }
+  ]
+}
+{
+  "uid": 43,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        4,
+        9,
+        22
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        4,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        18,
+        20
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        11,
+        22,
+        23
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        8,
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 44,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        17,
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        16,
+        21
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 17,
+      "topic": "Responses from society",
+      "subtopic": "Responses to car accidents resulting from diabetes.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        22
+      ]
+    }
+  ]
+}
+{
+  "uid": 45,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        1,
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        12,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        18,
+        19
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        2,
+        4,
+        5,
+        8,
+        14,
+        15,
+        21,
+        22
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        21
+      ]
+    }
+  ]
+}
+{
+  "uid": 46,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        24
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        24
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        6,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        25
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        4,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        27
+      ]
+    }
+  ]
+}
+{
+  "uid": 47,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        9
+      ]
+    }
+  ]
+}
+{
+  "uid": 48,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        12,
+        19
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        27
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        11,
+        27
+      ]
+    }
+  ]
+}
+{
+  "uid": 49,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        14,
+        19
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        22
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        5,
+        6
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 28,
+      "topic": "Effects on personality",
+      "subtopic": "You never forget you've got it.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        4,
+        5,
+        6,
+        7,
+        14,
+        19
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 50,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        16,
+        20
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        10,
+        15
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 13,
+      "topic": "Living together; living alone",
+      "subtopic": "Adult diabetes managed by children or partners.",
+      "paragraph": [
+        8,
+        18
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 51,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": []
+}
+{
+  "uid": 52,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        37
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        34
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        26
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        11,
+        20
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 53,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        19
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        23
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 54,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        10,
+        11,
+        13,
+        15,
+        16,
+        18
+      ]
+    }
+  ]
+}
+{
+  "uid": 55,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        13,
+        14
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        33,
+        35
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        4,
+        9
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        22
+      ]
+    }
+  ]
+}
+{
+  "uid": 56,
+  "group": [
+    "healthcare professional",
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        2,
+        4,
+        5,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ]
+}
+{
+  "uid": 57,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        3,
+        4,
+        6,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        21
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        11,
+        24,
+        25
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        6,
+        12,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        28
+      ]
+    }
+  ]
+}
+{
+  "uid": 58,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        8,
+        9
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 59,
+  "group": [
+    "healthcare professional",
+    "family member",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4,
+        16
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        2,
+        14,
+        17,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ]
+}
+{
+  "uid": 60,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        6,
+        7
+      ]
+    }
+  ]
+}
+{
+  "uid": 61,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        10,
+        21
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 40,
+      "topic": "Medical staff",
+      "subtopic": "Healthcare professionals learning from children's camps and clubs",
+      "paragraph": [
+        11,
+        12
+      ]
+    },
+    {
+      "index-topic": 5,
+      "index-subtopic": 12,
+      "topic": "Living together; living alone",
+      "subtopic": "Parents managing their child's diabetes.",
+      "paragraph": [
+        6,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        18,
+        19
+      ]
+    }
+  ]
+}
+{
+  "uid": 62,
+  "group": [
+    "healthcare professional",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        14,
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        9
+      ]
+    }
+  ]
+}
+{
+  "uid": 63,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        14
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 40,
+      "topic": "Medical staff",
+      "subtopic": "Healthcare professionals learning from children's camps and clubs",
+      "paragraph": [
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 64,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        12
+      ]
+    }
+  ]
+}
+{
+  "uid": 65,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        3
+      ]
+    }
+  ]
+}
+{
+  "uid": 66,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 40,
+      "topic": "Medical staff",
+      "subtopic": "Healthcare professionals learning from children's camps and clubs",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 67,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        21,
+        26
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 40,
+      "topic": "Medical staff",
+      "subtopic": "Healthcare professionals learning from children's camps and clubs",
+      "paragraph": [
+        24,
+        25,
+        30
+      ]
+    }
+  ]
+}
+{
+  "uid": 68,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        8
+      ]
+    }
+  ]
+}
+{
+  "uid": 69,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        7,
+        17
+      ]
+    }
+  ]
+}
+{
+  "uid": 70,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 5,
+      "topic": "Medical staff",
+      "subtopic": "You never saw the same person.",
+      "paragraph": [
+        2
+      ]
+    }
+  ]
+}
+{
+  "uid": 71,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        3,
+        16
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        17,
+        25
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        22
+      ]
+    }
+  ]
+}
+{
+  "uid": 72,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        10,
+        11
+      ]
+    }
+  ]
+}
+{
+  "uid": 73,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        3,
+        4,
+        11
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        10
+      ]
+    }
+  ]
+}
+{
+  "uid": 74,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 10,
+      "topic": "Medical staff",
+      "subtopic": "Attempts to deceive medical staff.",
+      "paragraph": [
+        15
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 75,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 21,
+      "topic": "Causes",
+      "subtopic": "Speculations about causes other than heredity.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        1,
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        2
+      ]
+    }
+  ]
+}
+{
+  "uid": 76,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        7
+      ]
+    }
+  ]
+}
+{
+  "uid": 77,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        1
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        4,
+        5
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 78,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        16
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        12
+      ]
+    }
+  ]
+}
+{
+  "uid": 79,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        11
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        9,
+        18
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        3,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        9,
+        16
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 23,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes in schools (difference).",
+      "paragraph": [
+        5,
+        6
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        10
+      ]
+    }
+  ]
+}
+{
+  "uid": 80,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 7,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of nurses.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        2,
+        8
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        4,
+        9
+      ]
+    }
+  ]
+}
+{
+  "uid": 81,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        6,
+        7
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 82,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        9
+      ]
+    }
+  ]
+}
+{
+  "uid": 83,
+  "group": [
+    "family member",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 34,
+      "topic": "Treatment",
+      "subtopic": "High fat foods were allowed or encouraged",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 11,
+      "topic": "Treatment",
+      "subtopic": "Problems after changing from animal insulin to human insulin.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        8,
+        10
+      ]
+    }
+  ]
+}
+{
+  "uid": 84,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 39,
+      "topic": "Treatment",
+      "subtopic": "Low cleaning standards and hospital infection",
+      "paragraph": [
+        2,
+        3
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        3,
+        12
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 27,
+      "topic": "Financial costs",
+      "subtopic": "Private medicine after 1948.",
+      "paragraph": [
+        12
+      ]
+    }
+  ]
+}
+{
+  "uid": 85,
+  "group": [
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        5,
+        6
+      ]
+    }
+  ]
+}
+{
+  "uid": 86,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        1
+      ]
+    }
+  ]
+}
+{
+  "uid": 87,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 88,
+  "group": [
+    "healthcare professional",
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 25,
+      "topic": "Financial costs",
+      "subtopic": "Costs before NHS created in 1948.",
+      "paragraph": [
+        23
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        19,
+        20
+      ]
+    }
+  ]
+}
+{
+  "uid": 89,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 30,
+      "topic": "Treatment",
+      "subtopic": "Treatment to cope with foreign travel.",
+      "paragraph": [
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        10
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        8
+      ]
+    }
+  ]
+}
+{
+  "uid": 90,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        4,
+        14
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        6,
+        14
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        10,
+        12,
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 91,
+  "group": [
+    "family member",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        3,
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        14,
+        16
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        7
+      ]
+    }
+  ]
+}
+{
+  "uid": 92,
+  "group": [
+    "family member"
+  ],
+  "topics": []
+}
+{
+  "uid": 93,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        5,
+        15
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        14
+      ]
+    }
+  ]
+}
+{
+  "uid": 94,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 33,
+      "topic": "Treatment",
+      "subtopic": "Mistakes made due to different strengths of insulin",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        9
+      ]
+    }
+  ]
+}
+{
+  "uid": 95,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 32,
+      "topic": "Causes",
+      "subtopic": "Prevalence among people from South Asia and the Caribbean",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        12,
+        13
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        14,
+        18,
+        19
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        13
+      ]
+    }
+  ]
+}
+{
+  "uid": 96,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        12
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        10
+      ]
+    }
+  ]
+}
+{
+  "uid": 97,
+  "group": [
+    "healthcare professional",
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 1,
+      "index-subtopic": 1,
+      "topic": "Causes",
+      "subtopic": "Heredity: memories of relatives diagnosed before insulin was available",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 22,
+      "topic": "Treatment",
+      "subtopic": "Learning to inject.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        20
+      ]
+    },
+    {
+      "index-topic": 3,
+      "index-subtopic": 26,
+      "topic": "Financial costs",
+      "subtopic": "Costs for NHS patients after 1948.",
+      "paragraph": [
+        7
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 3,
+      "topic": "Medical staff",
+      "subtopic": "Examples of good GPs.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        6
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 6,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of individual hospital doctors.",
+      "paragraph": [
+        8,
+        14
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 8,
+      "topic": "Medical staff",
+      "subtopic": "Positive experiences of nurses.",
+      "paragraph": [
+        8,
+        14
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 24,
+      "topic": "Responses from society",
+      "subtopic": "Schools coping with diabetes.",
+      "paragraph": [
+        6,
+        10
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        9,
+        15
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 19,
+      "topic": "Reflections",
+      "subtopic": "Control diabetes; don't let it control you.",
+      "paragraph": [
+        11
+      ]
+    }
+  ]
+}
+{
+  "uid": 98,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 31,
+      "topic": "Treatment",
+      "subtopic": "Diet: food and drink specially produced for diabetics",
+      "paragraph": [
+        5
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 35,
+      "topic": "Treatment",
+      "subtopic": "Exercise not considered important",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        3,
+        5
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 9,
+      "topic": "Medical staff",
+      "subtopic": "The idea of the 'expert patient' – patients knowing more than medical staff.",
+      "paragraph": [
+        16
+      ]
+    }
+  ]
+}
+{
+  "uid": 99,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 4,
+      "index-subtopic": 2,
+      "topic": "Medical staff",
+      "subtopic": "General practitioners' failures.",
+      "paragraph": [
+        2
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        7
+      ]
+    }
+  ]
+}
+{
+  "uid": 100,
+  "group": [
+    "family member"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 38,
+      "topic": "Treatment",
+      "subtopic": "Home visits",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 4,
+      "index-subtopic": 4,
+      "topic": "Medical staff",
+      "subtopic": "Negative experiences of hospital doctors.",
+      "paragraph": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 16,
+      "topic": "Responses from society",
+      "subtopic": "Attitudes to diabetes among ethnic minorities.",
+      "paragraph": [
+        2,
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        2,
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 29,
+      "topic": "Effects on personality",
+      "subtopic": "Other psychological effects.",
+      "paragraph": [
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+}
+{
+  "uid": 101,
+  "group": [
+    "healthcare professional"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 37,
+      "topic": "Treatment",
+      "subtopic": "Huge clinics, long waits",
+      "paragraph": [
+        9
+      ]
+    },
+    {
+      "index-topic": 7,
+      "index-subtopic": 15,
+      "topic": "Effects on personality",
+      "subtopic": "Shame and embarrassment.",
+      "paragraph": [
+        15
+      ]
+    }
+  ]
+}
+{
+  "uid": 102,
+  "group": [
+    "healthcare professional",
+    "person with diabetes"
+  ],
+  "topics": [
+    {
+      "index-topic": 2,
+      "index-subtopic": 36,
+      "topic": "Treatment",
+      "subtopic": "'Mild' diabetes",
+      "paragraph": [
+        3
+      ]
+    },
+    {
+      "index-topic": 6,
+      "index-subtopic": 20,
+      "topic": "Responses from society",
+      "subtopic": "Discrimination at work.",
+      "paragraph": [
+        4
+      ]
+    },
+    {
+      "index-topic": 8,
+      "index-subtopic": 18,
+      "topic": "Reflections",
+      "subtopic": "Advantages of having diabetes.",
+      "paragraph": [
+        1
+      ]
+    }
+  ]
+}
